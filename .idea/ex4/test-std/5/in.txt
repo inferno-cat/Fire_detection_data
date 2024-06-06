@@ -1,0 +1,4 @@
+int main(){
+  int flag=0;
+  while(!flag)flag=1;
+}

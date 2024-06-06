@@ -1,0 +1,14 @@
+const int a = 1;
+
+int fib(int x, int y) {
+    return fib(fib(x, y), fib(y, x));
+}
+
+int main(){
+    int b = 1, c = a();
+    const int d = a(), f = a();
+
+    void x = 1;
+    const void x = 1;
+    return a;
+}

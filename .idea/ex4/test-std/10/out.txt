@@ -1,0 +1,2 @@
+Error type (Syntactical) at line 3.
+Error type (Syntactical) at line 6.

@@ -1,0 +1,14 @@
+int main(){
+  int flag=0;
+  const int One =1;
+  /*magic line
+  and two magic line
+  and the end of the magic line
+  */
+  while(flag<114514)
+  {
+    flag=flag+1;
+    flag=flag*3;
+    if(flag%2==One||0)continue;
+  }
+}

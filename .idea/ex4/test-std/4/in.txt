@@ -1,0 +1,12 @@
+float main(){
+    float a[1][1]={1.5};
+    float b=0.1;
+    float temp=a[1][1];
+    while(1)
+    {
+        if(temp<5.0) temp=temp+0.2;
+        else temp=temp+b;
+        if(temp>10.0) break;
+    }
+    return temp;
+}

@@ -1,0 +1,9 @@
+void main ( ) { 
+    int a = 1 ; 
+    const float b = ; 
+    if ( a && b >= 1 ) { 
+        a = a + b ; 
+        retun 1 ; 
+    } 
+    return 0 ; 
+}
